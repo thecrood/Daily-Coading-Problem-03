@@ -1,4 +1,4 @@
-# Daily-Coading-Problem-03
+# Daily-Coding-Problem-03
 
 This problem was asked by Google.
 
